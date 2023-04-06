@@ -1,0 +1,11 @@
+export const primaryColor = "#3f51b5";
+export const primaryColorHover = "#2c387e";
+export const secondaryColor = "#d3d3d3";
+export const secondaryColorHover = "#808080";
+export const lightPurple = "#aa90d7";
+export const white = "#ffffffff";
+export const inputBackgroundColor = "#f9f9f9f9";
+export const black = "#000000";
+export const borderRadius: string = "5px";
+export const smallBorderRadius: string = "3px";
+export const hoverTransition: string = "0.2s ease-in-out";
